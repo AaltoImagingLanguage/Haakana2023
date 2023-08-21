@@ -1,4 +1,4 @@
-MIT License
+modified MIT License
 
 Copyright (c) 2023 Aalto University, Imaging Language Group
 
@@ -11,6 +11,11 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+
+Any acadeimc work making use of this code shall cite the following paper:
+
+1. Jussi Gillberg, Pekka Marttinen, Matti Pirinen, Antti J. Kangas, Pasi Soininen, Mehreen Ali, Aki S. Havulinna, Marjo-Riitta Jarvelin, Mika Ala-Korpela and Samuel Kaski. Multiple Output Regression with Latent Noise. Journal of Machine Learning Research, Vol. 17, 2016
+
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,

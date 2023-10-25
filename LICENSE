@@ -12,9 +12,12 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-Any academic work making use of this code shall cite the following paper:
+Any academic work making use of this code shall cite the following papers:
 
 1. Jussi Gillberg, Pekka Marttinen, Matti Pirinen, Antti J. Kangas, Pasi Soininen, Mehreen Ali, Aki S. Havulinna, Marjo-Riitta Jarvelin, Mika Ala-Korpela and Samuel Kaski. Multiple Output Regression with Latent Noise. Journal of Machine Learning Research, Vol. 17, 2016
+
+Joonas Haakana, Susanne Merz, Samuel Kaski, et al. Bayesian reduced rank regression reveals generalisable neural fingerprints that differentiate between individuals in magnetoencephalography data. Authorea. September 12, 2023.
+DOI: 10.22541/au.169454003.36316479/v1
 
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
